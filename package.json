@@ -1,0 +1,22 @@
+{
+	"name": "mapty",
+	"version": "1.0.0",
+	"description": "",
+	"main": "script.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+ssh://git@github.com/Hargent/Mapty.git"
+	},
+	"author": "Hargent",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Hargent/Mapty/issues"
+	},
+	"homepage": "https://github.com/Hargent/Mapty#readme",
+	"devDependencies": {
+		"uuid": "^9.0.0"
+	}
+}
